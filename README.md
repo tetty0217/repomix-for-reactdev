@@ -1,4 +1,4 @@
-# Repomix for react dev
+# Context for react dev
 ## Overview
 A repository specializing in official React knowledge as AI context.
 
@@ -11,3 +11,5 @@ Same Claude Code usage,
 
 ## Dependencies
 - [serena](https://github.com/oraios/serena)
+- [repomix](https://github.com/yamadashy/repomix)
+- [react.dev](https://react.dev)
